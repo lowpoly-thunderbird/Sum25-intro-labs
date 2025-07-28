@@ -134,19 +134,19 @@ WebUI:
 
 ## Task 2: Static Site Deployment with Fleek
 ### 1) Signed In:
-aaaaaaaaa
+![alt text](image_2025-07-28_23-27-21.png)
 
 ### 2) Deployed repo app
-aaaaaaaaa
+![alt text](image_2025-07-28_23-27-04.png)
 
 - Verify on public gateway: http://sum25-intro-labs-xwr873cs-dm1stry.4everland.app/
 
-aaaaaaaaa
+![alt text](image_2025-07-28_23-28-19.png)
 
 Verify on public gateway: https://ipfs.io/ipfs/bafybeihzarmfcsys5au2yx3mhemrowy2x4xg4pckz3s7rxbipa3etpsjzm
 
 ## Task 1 Results
-- IPFS Node Peer Count: 618
+- IPFS Node Peer Count: 576
 - IPFS Node Bandwidth: Incoming 33 KiB/s, outgoing 33 KiB/s
 - Test File CID: QmUFJmQRosK4Amzcjwbip8kV3gkJ8jqCURjCNxuv3bWYS1
 - Public Gateway URL: `https://ipfs.io/ipfs/QmUFJmQRosK4Amzcjwbip8kV3gkJ8jqCURjCNxuv3bWYS1`
